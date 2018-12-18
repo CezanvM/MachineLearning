@@ -1,4 +1,4 @@
-name: MachineLearningAssignment
+name: MLA
 channels:
 - !!python/unicode
   'defaults'
